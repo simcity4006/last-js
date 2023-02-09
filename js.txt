@@ -1,0 +1,52 @@
+index html   index innerHTML end index innerHTML end index innerHTML end index innerHTML end index innerHTML end
+
+ <!-- <button onmouseleave="foysal()">click me</button> -->
+    <!-- <h5 id="fl"><a href="https://www.fiverr.com/">foysal ahmed student</a></h5>
+    <button style="background-color: yellow; border: none; " onclick="document.getElementById('fl').innerHTML='foysal ahmed sir'">click us</button>
+    <button onclick="document.getElementById('fl').style.background='#000'">color</button>
+    <button onclick="document.getElementById('fl').style.color='#fff'">color</button>
+    <img id="f" src="./img/batee.jfif" alt="">
+    <button onclick="document.getElementById('f').src='img/batee.jfif'"> bettery</button>
+    <button onclick="document.getElementById('f').src='img/download (1).png'">full</button>
+    <button onclick="document.getElementById('f').src='img/low.png'">low</button> -->
+    
+<!-- 
+    <h1 id="foyalk">how are you foysal</h1>
+    <button onclick="document.getElementById('foyalk').innerHTML=' i am fine'"></button>
+     <BUtton onclick="alert('bamnisah')">button</BUtton>
+    
+    
+    -->
+
+
+
+    <!-- <button onclick="foysalkhan()">click me</button> 
+     -->
+
+    <!-- <button onclick="foysalahmed()">waht is a now time</button>
+
+    <p id="foys"></p> -->
+
+
+
+    <!-- <h1 class="khan">foyal ahmed sorker</h1> -->
+
+
+
+    <!-- <div class="maimn">
+
+        <div class="foysa"></div>
+    </div> -->
+
+
+    <!-- <ul class="simcity">
+        <li class=FirstChaild>first child</li>
+        <li>first child</li>
+        <li class="MiddleChild">first child</li>
+        <li>first child</li>
+        <li class="LastChild">first child</li>
+    </ul> -->
+
+
+
+    index innerHTML end  index innerHTML end index innerHTML end index innerHTML end index innerHTML end index innerHTML end index innerHTML end index innerHTML end index innerHTML end index innerHTML end
